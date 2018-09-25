@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GPA_GARCR_Calculator</string>
+    <string name="btn_submit">Compute GPA</string>
+    <string name="g1">Enter Grade</string>
+    <string name="g2">Enter Grade</string>
+    <string name="g3">Enter Grade</string>
+    <string name="g4">Enter Grade</string>
+    <string name="g5">Enter Grade</string>
+    <string name="lbl_G1">Grade 1:</string>
+    <string name="lbl_G2">Grade 2:</string>
+    <string name="lbl_G3">Grade 3:</string>
+    <string name="lbl_G4">Grade 4:</string>
+    <string name="lbl_G5">Grade 5:</string>
+    <string name="gpa_results">GPA Results</string>
+    <string name="btn_clear">Clear Form</string>
+    <string name="lbl_result_error">Invalid input!</string>
+    <string name="gpa">GPA</string>
+    <string name="no_input_error">Field can not be empty!</string>
+    <string name="num_only_error">Field must be a number!</string>
+    <string name="invalid_range_num">Field must be between 0 and 100!</string>
+
+
+</resources>
